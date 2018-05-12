@@ -1,0 +1,10 @@
+D:\OkeyFormsApp\OkeyFormsApp\bin\Debug\OkeyFormsApp.exe.config
+D:\OkeyFormsApp\OkeyFormsApp\bin\Debug\OkeyFormsApp.exe
+D:\OkeyFormsApp\OkeyFormsApp\bin\Debug\OkeyFormsApp.pdb
+D:\OkeyFormsApp\OkeyFormsApp\obj\Debug\OkeyFormsApp.csprojResolveAssemblyReference.cache
+D:\OkeyFormsApp\OkeyFormsApp\obj\Debug\OkeyFormsApp.Form1.resources
+D:\OkeyFormsApp\OkeyFormsApp\obj\Debug\OkeyFormsApp.Properties.Resources.resources
+D:\OkeyFormsApp\OkeyFormsApp\obj\Debug\OkeyFormsApp.csproj.GenerateResource.Cache
+D:\OkeyFormsApp\OkeyFormsApp\obj\Debug\OkeyFormsApp.csproj.CoreCompileInputs.cache
+D:\OkeyFormsApp\OkeyFormsApp\obj\Debug\OkeyFormsApp.exe
+D:\OkeyFormsApp\OkeyFormsApp\obj\Debug\OkeyFormsApp.pdb
